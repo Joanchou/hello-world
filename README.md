@@ -13,3 +13,9 @@
    合并请求：当我们在某个分支上开发完了功能，需要发布pull requests，让我们的协作者一起来审核代码，协作者可以对比两个分支的修改内容；  
    5.merge;  
    合并分支：当协作者审核代码没有问题，就可以执行合并分支，合并至master分支中；  
+   6.changes&history;  
+   变化（changes）：未发布版本之前，修改前后的变化对比；历史发版记录（history）：记录项目的发版历史；  
+   7.publish&sync；
+   发布（publish）：本地仓库的新项目发布到远端；同步（sync）：使本地和远端的项目保持同步；  
+   8.GitHub-page，wiki，issues；  
+   GitHub的三个工具：静态网页，在线文档，事件；
